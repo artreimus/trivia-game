@@ -5,7 +5,7 @@ export default function Homepage(props) {
     <div className="homepage">
       <h1 className="homepage__title">Quizwiz</h1>
       <p className="homepage__text">
-        Play a fun game Quizwiz and learn something new!
+        Play a fun game of Quizwiz and learn something new!
       </p>
       <button
         type="button"
